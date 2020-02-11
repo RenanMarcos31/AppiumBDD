@@ -18,5 +18,5 @@ Funcionalidade: Pesquisar produto pela tela de inicio
     Quando logo no aolicativo
     E clico no menu laptops 
     E clico no produto desejado
-    E adiciono no carrinho 18 produtos 
-    Entao o aplicativo adiciona apenas 10 no carrinho
+    E adiciono no carrinho os produtos 
+    Entao o aplicativo nao adiciona tudo  no carrinho
